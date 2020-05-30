@@ -1,5 +1,6 @@
 # 10601_Codes
 These are the codes generated for the Machine Learning Class at CMU for Spring 2020. 
+The entire code is done through numpy library and does not use scikitlearn/keras/pytorch anywhere. All models are built from scratch.
 Following are the codes used:
 1. Decision Stump Algorithm: decisionstump.py
 2. Decision Tree Algorithm: inspection.py for calculating Gini Gain and decisiontree.py for actual decision tree regression with binary attributes
