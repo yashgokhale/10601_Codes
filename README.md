@@ -7,6 +7,6 @@ Following are the codes used:
 3. Logistic Regression: feature.py for generating a sparse matrix for logistic regression and lr.py for the actual logistic regression
 4. Neural Network: neuralnet.py used with stochastic gradient descent 
 5. Hidden Markov Model for Part of Speech Tagging: learnhmm.py to calculate the parameters for the model and forwardbackward.py to actually predict the part of speech tagging
-6. Reinforcement Learning: Solving the MountainCar problem giving by OpenAI with q learning using linear function approximation.
+6. Reinforcement Learning: Solving the MountainCar problem given by OpenAI with q learning using linear function approximation.
 
 You can get back to me at ysg@andrew.cmu.edu for any further clarifications or suggestions.
